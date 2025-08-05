@@ -1,6 +1,4 @@
 C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/mio_progetto.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolForceReconfigure.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild.dir
 C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/edit_cache.dir
 C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/rebuild_cache.dir
 C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/CMakeFiles/edit_cache.dir
