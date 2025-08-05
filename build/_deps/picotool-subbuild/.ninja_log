@@ -1,0 +1,21 @@
+# ninja log v7
+4	89	7760945841262558	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	1f86381466b7e052
+4	89	7760945841262558	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	1f86381466b7e052
+90	4295	7760945883316740	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	ce62228cfcd7c9c0
+90	4295	7760945883316740	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	ce62228cfcd7c9c0
+4296	4559	7760945883472969	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	500f10adbedf4945
+4296	4559	7760945883472969	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	500f10adbedf4945
+4560	4646	7760945886736324	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	bf8ad88edd60b68f
+4560	4646	7760945886736324	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	bf8ad88edd60b68f
+4646	4736	7760945887636556	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	ab30cb8046d2c0e3
+4646	4736	7760945887636556	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	ab30cb8046d2c0e3
+4736	4827	7760945888656217	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	26b07386809302b6
+4736	4827	7760945888656217	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	26b07386809302b6
+4827	5119	7760945891323191	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	c3ac9e46fb4887d7
+4827	5119	7760945891323191	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	c3ac9e46fb4887d7
+5120	5324	7760945893505964	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	4a4309653ccf1332
+5120	5324	7760945893505964	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	4a4309653ccf1332
+5324	5473	7760945895121511	CMakeFiles/picotool-populate-complete	808f76ca956eb952
+5324	5473	7760945895121511	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	808f76ca956eb952
+5324	5473	7760945895121511	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete	808f76ca956eb952
+5324	5473	7760945895121511	C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	808f76ca956eb952
