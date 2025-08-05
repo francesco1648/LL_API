@@ -69,6 +69,10 @@
 			"path" : "build/CMakeFiles/4.1.0-rc4/CMakeCXXCompiler.cmake"
 		},
 		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.0-rc4/CMakeASMCompiler.cmake"
+		},
+		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
@@ -188,6 +192,26 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
 		},
 		{
@@ -218,30 +242,6 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Program Files/pico-sdk/pico_sdk_init.cmake"
-		},
-		{
-			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.1.0-rc4/CMakeASMCompiler.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -625,47 +625,20 @@
 			"path" : "C:/Program Files/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeLists.txt"
 		},
 		{
-			"isExternal" : true,
-			"path" : "C:/Program Files/pico-sdk/tools/Findpioasm.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/mkdirs.cmake.in"
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmConfigVersion.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-mkdirs.cmake"
+			"path" : "build/pioasm-install/pioasm/pioasmConfig.cmake"
 		},
 		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/RepositoryInfo.txt.in"
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmTargets.cmake"
 		},
 		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/UpdateInfo.txt.in"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/PatchInfo.txt.in"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/cfgcmd.txt.in"
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmTargets-release.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -726,6 +699,22 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Program Files/pico-sdk/src/rp2_common/pico_status_led/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/pioasm-install/pioasm/pioasmTargets-release.cmake"
 		},
 		{
 			"isExternal" : true,

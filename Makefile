@@ -9,6 +9,7 @@ DESTINATION ?= /d
 .PHONY: setup
 setup:
 	if [ ! -d "$(BUILD_DIR)" ]; then mkdir $(BUILD_DIR); fi
+	
 	cd $(BUILD_DIR) && cmake -G Ninja .. -DPICO_BOARD=pico_w
 	cd $(BUILD_DIR) && ninja
 
