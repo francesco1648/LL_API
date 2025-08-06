@@ -1,14 +1,14 @@
 # ninja log v7
-31	4340	7761287128211914	CMakeFiles/pioasm.dir/c_sdk_output.cpp.obj	19db1337eaff64d7
-7	5481	7761287127982523	CMakeFiles/pioasm.dir/main.cpp.obj	d6f4ff9c299c8a74
-18	5788	7761287128082261	CMakeFiles/pioasm.dir/pio_disassembler.cpp.obj	4e2c99959a5b3284
-22	7092	7761287128122160	CMakeFiles/pioasm.dir/gen/lexer.cpp.obj	b9099ebbf076d12
-5481	8611	7761287182716274	CMakeFiles/pioasm.dir/hex_output.cpp.obj	6e67cc137cb932c
-5788	9199	7761287185788063	CMakeFiles/pioasm.dir/json_output.cpp.obj	dd9aa440e152dbfb
-7092	10729	7761287198833214	CMakeFiles/pioasm.dir/ada_output.cpp.obj	b01a5afa7ef9311d
-4345	11272	7761287171356627	CMakeFiles/pioasm.dir/python_output.cpp.obj	6f913d94ba2eb1e3
-8612	12015	7761287214022626	CMakeFiles/pioasm.dir/go_output.cpp.obj	b1e7f5f1bceea509
-27	14203	7761287128172040	CMakeFiles/pioasm.dir/gen/parser.cpp.obj	9512de1212406132
-13	14987	7761287128042366	CMakeFiles/pioasm.dir/pio_assembler.cpp.obj	f762930d7d55e2e8
-14987	15706	7761287277782243	pioasm.exe	d59b3b57f022b162
-42	678	7761287293171130	CMakeFiles/install.util	e33325eacb0cc7e1
+33	4190	7762187436616661	CMakeFiles/pioasm.dir/c_sdk_output.cpp.obj	19db1337eaff64d7
+8	5967	7762187436367821	CMakeFiles/pioasm.dir/main.cpp.obj	d6f4ff9c299c8a74
+19	6187	7762187436471967	CMakeFiles/pioasm.dir/pio_disassembler.cpp.obj	4e2c99959a5b3284
+23	8901	7762187436522152	CMakeFiles/pioasm.dir/gen/lexer.cpp.obj	b9099ebbf076d12
+5968	10351	7762187495945731	CMakeFiles/pioasm.dir/hex_output.cpp.obj	6e67cc137cb932c
+6187	11261	7762187498140261	CMakeFiles/pioasm.dir/json_output.cpp.obj	dd9aa440e152dbfb
+8901	14316	7762187525296473	CMakeFiles/pioasm.dir/ada_output.cpp.obj	b01a5afa7ef9311d
+4234	14552	7762187478635916	CMakeFiles/pioasm.dir/python_output.cpp.obj	6f913d94ba2eb1e3
+10351	15658	7762187539769503	CMakeFiles/pioasm.dir/go_output.cpp.obj	b1e7f5f1bceea509
+28	17609	7762187436563715	CMakeFiles/pioasm.dir/gen/parser.cpp.obj	9512de1212406132
+14	18604	7762187436434260	CMakeFiles/pioasm.dir/pio_assembler.cpp.obj	f762930d7d55e2e8
+18604	19607	7762187622332241	pioasm.exe	d59b3b57f022b162
+163	2076	7762187643718916	CMakeFiles/install.util	e33325eacb0cc7e1

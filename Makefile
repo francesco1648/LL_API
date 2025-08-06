@@ -1,15 +1,20 @@
 BUILD_DIR = build
-PROJECT_NAME = mio_progetto
+PROJECT_NAME = $(CURDIR)
 UF2_FILE = $(PROJECT_NAME).uf2
 
 # ATTENZIONE: in bash su Windows la lettera di unità 'D:' diventa '/d/' oppure '/mnt/d/'
 # Controlla come monti il disco Pico in bash e modifica DESTINATION di conseguenza.
-DESTINATION ?= /d
+DESTINATION ?=  'D:\'
 
 .PHONY: setup
 setup:
-	if [ ! -d "$(BUILD_DIR)" ]; then mkdir $(BUILD_DIR); fi
-	
+
+	@if exist "$(BUILD_DIR)" ( \
+		echo "Build directory already exists. Skipping setup." \
+	) else ( \
+		echo "Creating build directory..." && \
+		mkdir $(BUILD_DIR) \
+	)
 	cd $(BUILD_DIR) && cmake -G Ninja .. -DPICO_BOARD=pico_w
 	cd $(BUILD_DIR) && ninja
 
@@ -19,13 +24,23 @@ compile:
 
 .PHONY: upload_bootsel
 upload_bootsel:
-	if [ -f "$(BUILD_DIR)/$(UF2_FILE)" ]; then \
-		echo "Uploading $(UF2_FILE) to Raspberry Pi Pico..."; \
-		cp -f "$(BUILD_DIR)/$(UF2_FILE)" "$(DESTINATION)/"; \
-	else \
-		echo "Error: file '$(BUILD_DIR)/$(UF2_FILE)' not found. Run 'make compile' first."; \
-	fi
+	
+	@if exist "$(BUILD_DIR)/$(UF2_FILE)" ( \
+		echo "Uploading .uf2 file to Raspberry Pi Pico..." && \
+		powershell -Command "Copy-Item '$(BUILD_DIR)/$(UF2_FILE)' -Destination  $(DESTINATION)  -Force" || ( \
+		    echo "Error while uploading, please make sure the pico is in BOOTSEL mode and is recognized as $(DESTINATION) storage drive. If it is recognized as another drive, please change the 'Destination' field of the upload_bootsel command"; \
+		) \
+	) else ( \
+		echo ".uf2 file not found. Run 'make compile' before uploading the code." \
+	)
 
-.PHONY: clean
-clean:
-	if [ -d "$(BUILD_DIR)" ]; then rm -rf $(BUILD_DIR); fi
+.PHONY: clean_all
+clean_all:
+	@echo BUILD_DIR is: "$(BUILD_DIR)"
+	@if exist "$(BUILD_DIR)\output" ( \
+		echo The build folder exists. & \
+		rd /s /q "$(BUILD_DIR)" & \
+		echo Build folder content removed. \
+	) else ( \
+		echo The output folder does not exist. \
+	)

@@ -48,14 +48,14 @@ events:
       - "C:/Program Files/mingw64/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/PowerShell/7/cc.com"
@@ -298,25 +298,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -350,25 +350,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "message-v1"
@@ -426,14 +426,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/ar.com"
@@ -445,25 +445,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -499,14 +499,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/ranlib.com"
@@ -518,25 +518,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -572,14 +572,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/strip.com"
@@ -591,25 +591,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -645,14 +645,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/ld.com"
@@ -664,25 +664,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -718,14 +718,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/nm.com"
@@ -737,25 +737,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -791,14 +791,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/objdump.com"
@@ -810,25 +810,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -864,14 +864,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/objcopy.com"
@@ -883,25 +883,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -937,14 +937,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/readelf.com"
@@ -956,25 +956,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1010,14 +1010,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/dlltool.com"
@@ -1029,25 +1029,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1083,14 +1083,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/addr2line.com"
@@ -1102,25 +1102,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1156,14 +1156,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/tapi.com"
@@ -1208,12 +1208,9 @@ events:
       - "C:/Program Files/ninja/tapi.com"
       - "C:/Program Files/ninja/tapi.exe"
       - "C:/Program Files/ninja/tapi"
-      - "C:/MinGW/mingw32/bin/tapi.com"
-      - "C:/MinGW/mingw32/bin/tapi.exe"
-      - "C:/MinGW/mingw32/bin/tapi"
-      - "C:/msys64/usr/bin/tapi.com"
-      - "C:/msys64/usr/bin/tapi.exe"
-      - "C:/msys64/usr/bin/tapi"
+      - "C:/Program Files (x86)/GnuWin32/bin/tapi.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/tapi.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/tapi"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/tapi.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/tapi.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/tapi"
@@ -1232,6 +1229,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/tapi.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/tapi.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/tapi"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
@@ -1243,25 +1243,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1300,14 +1300,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/gcc-ar-15.1.com"
@@ -1352,12 +1352,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar-15.1.com"
       - "C:/Program Files/ninja/gcc-ar-15.1.exe"
       - "C:/Program Files/ninja/gcc-ar-15.1"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1"
-      - "C:/msys64/usr/bin/gcc-ar-15.1.com"
-      - "C:/msys64/usr/bin/gcc-ar-15.1.exe"
-      - "C:/msys64/usr/bin/gcc-ar-15.1"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1"
@@ -1376,6 +1373,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1"
@@ -1421,12 +1421,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar-15.com"
       - "C:/Program Files/ninja/gcc-ar-15.exe"
       - "C:/Program Files/ninja/gcc-ar-15"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15"
-      - "C:/msys64/usr/bin/gcc-ar-15.com"
-      - "C:/msys64/usr/bin/gcc-ar-15.exe"
-      - "C:/msys64/usr/bin/gcc-ar-15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15"
@@ -1445,6 +1442,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
@@ -1490,12 +1490,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar15.com"
       - "C:/Program Files/ninja/gcc-ar15.exe"
       - "C:/Program Files/ninja/gcc-ar15"
-      - "C:/MinGW/mingw32/bin/gcc-ar15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar15"
-      - "C:/msys64/usr/bin/gcc-ar15.com"
-      - "C:/msys64/usr/bin/gcc-ar15.exe"
-      - "C:/msys64/usr/bin/gcc-ar15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15"
@@ -1514,6 +1511,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
@@ -1526,25 +1526,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1583,14 +1583,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/gcc-ranlib-15.1.com"
@@ -1635,12 +1635,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib-15.1.com"
       - "C:/Program Files/ninja/gcc-ranlib-15.1.exe"
       - "C:/Program Files/ninja/gcc-ranlib-15.1"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1.com"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1"
@@ -1659,6 +1656,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1"
@@ -1704,12 +1704,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib-15.com"
       - "C:/Program Files/ninja/gcc-ranlib-15.exe"
       - "C:/Program Files/ninja/gcc-ranlib-15"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.com"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib-15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15"
@@ -1728,6 +1725,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
@@ -1773,12 +1773,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib15.com"
       - "C:/Program Files/ninja/gcc-ranlib15.exe"
       - "C:/Program Files/ninja/gcc-ranlib15"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15"
-      - "C:/msys64/usr/bin/gcc-ranlib15.com"
-      - "C:/msys64/usr/bin/gcc-ranlib15.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15"
@@ -1797,6 +1794,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
@@ -1809,25 +1809,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1865,25 +1865,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -1917,25 +1917,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "message-v1"
@@ -1996,14 +1996,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/gcc-ar-15.1.com"
@@ -2048,12 +2048,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar-15.1.com"
       - "C:/Program Files/ninja/gcc-ar-15.1.exe"
       - "C:/Program Files/ninja/gcc-ar-15.1"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.1"
-      - "C:/msys64/usr/bin/gcc-ar-15.1.com"
-      - "C:/msys64/usr/bin/gcc-ar-15.1.exe"
-      - "C:/msys64/usr/bin/gcc-ar-15.1"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.1"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.1"
@@ -2072,6 +2069,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.1"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1"
@@ -2117,12 +2117,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar-15.com"
       - "C:/Program Files/ninja/gcc-ar-15.exe"
       - "C:/Program Files/ninja/gcc-ar-15"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar-15"
-      - "C:/msys64/usr/bin/gcc-ar-15.com"
-      - "C:/msys64/usr/bin/gcc-ar-15.exe"
-      - "C:/msys64/usr/bin/gcc-ar-15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar-15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar-15"
@@ -2141,6 +2138,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar-15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
@@ -2186,12 +2186,9 @@ events:
       - "C:/Program Files/ninja/gcc-ar15.com"
       - "C:/Program Files/ninja/gcc-ar15.exe"
       - "C:/Program Files/ninja/gcc-ar15"
-      - "C:/MinGW/mingw32/bin/gcc-ar15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ar15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ar15"
-      - "C:/msys64/usr/bin/gcc-ar15.com"
-      - "C:/msys64/usr/bin/gcc-ar15.exe"
-      - "C:/msys64/usr/bin/gcc-ar15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ar15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ar15"
@@ -2210,6 +2207,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ar15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
@@ -2222,25 +2222,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -2279,14 +2279,14 @@ events:
       - "C:/Program Files/Arduino-cli/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/mingw64/bin/gcc-ranlib-15.1.com"
@@ -2331,12 +2331,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib-15.1.com"
       - "C:/Program Files/ninja/gcc-ranlib-15.1.exe"
       - "C:/Program Files/ninja/gcc-ranlib-15.1"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.1"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1.com"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.1"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.1"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.1"
@@ -2355,6 +2352,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.1"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1"
@@ -2400,12 +2400,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib-15.com"
       - "C:/Program Files/ninja/gcc-ranlib-15.exe"
       - "C:/Program Files/ninja/gcc-ranlib-15"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib-15"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.com"
-      - "C:/msys64/usr/bin/gcc-ranlib-15.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib-15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib-15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib-15"
@@ -2424,6 +2421,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib-15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
@@ -2469,12 +2469,9 @@ events:
       - "C:/Program Files/ninja/gcc-ranlib15.com"
       - "C:/Program Files/ninja/gcc-ranlib15.exe"
       - "C:/Program Files/ninja/gcc-ranlib15"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15.com"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15.exe"
-      - "C:/MinGW/mingw32/bin/gcc-ranlib15"
-      - "C:/msys64/usr/bin/gcc-ranlib15.com"
-      - "C:/msys64/usr/bin/gcc-ranlib15.exe"
-      - "C:/msys64/usr/bin/gcc-ranlib15"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/gcc-ranlib15"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/gcc-ranlib15"
@@ -2493,6 +2490,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/gcc-ranlib15"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
@@ -2505,25 +2505,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
   -
     kind: "find-v1"
@@ -2562,14 +2562,14 @@ events:
       - "C:/Program Files/mingw64/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
@@ -2626,25 +2626,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2660,8 +2660,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-g732hy"
-      binary: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-g732hy"
+      source: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-wwmftm"
+      binary: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-wwmftm"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2670,10 +2670,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-g732hy'
+        Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-wwmftm'
         
-        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_a5245
-        [1/2] C:\\PROGRA~1\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_660fd
+        [1/2] C:\\PROGRA~1\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\cc.exe
         Target: x86_64-w64-mingw32
@@ -2681,8 +2681,8 @@ events:
         Thread model: win32
         Supported LTO compression algorithms: zlib
         gcc version 15.1.0 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/'
-         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_a5245.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccac3TFA.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/'
+         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_660fd.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\cc9LTwsl.s
         GNU C23 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) version 15.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.1.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -2699,13 +2699,13 @@ events:
          C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 15ce93399e21ac4b9bd1d0e0ad344351
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/'
-         C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccac3TFA.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/'
+         C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj C:\\Users\\franc\\AppData\\Local\\Temp\\cc9LTwsl.s
         GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.44
         COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../libexec/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../lib/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj -o cmTC_a5245.exe -Wl,--out-implib,libcmTC_a5245.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj -o cmTC_660fd.exe -Wl,--out-implib,libcmTC_660fd.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\cc.exe
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe
@@ -2716,12 +2716,12 @@ events:
         gcc version 15.1.0 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) 
         COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../libexec/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../lib/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a5245.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_a5245.'
-         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc2FBKIK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a5245.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_a5245.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_660fd.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_660fd.'
+         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccjdcJuo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_660fd.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_660fd.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         collect2 version 15.1.0
-        C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc2FBKIK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a5245.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_a5245.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccjdcJuo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_660fd.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_660fd.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         GNU ld (GNU Binutils) 2.44
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a5245.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_a5245.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_660fd.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_660fd.'
         
       exitCode: 0
   -
@@ -2754,10 +2754,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-g732hy']
+        ignore line: [Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-wwmftm']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_a5245]
-        ignore line: [[1/2] C:\\PROGRA~1\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_660fd]
+        ignore line: [[1/2] C:\\PROGRA~1\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\cc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2765,8 +2765,8 @@ events:
         ignore line: [Thread model: win32]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.1.0 (x86_64-win32-seh-rev0  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/']
-        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_a5245.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccac3TFA.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/']
+        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_660fd.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\cc9LTwsl.s]
         ignore line: [GNU C23 (x86_64-win32-seh-rev0  Built by MinGW-Builds project) version 15.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.1.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2783,8 +2783,8 @@ events:
         ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 15ce93399e21ac4b9bd1d0e0ad344351]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/']
-        ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccac3TFA.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/']
+        ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj C:\\Users\\franc\\AppData\\Local\\Temp\\cc9LTwsl.s]
         ignore line: [GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.44]
         ignore line: [COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/]
         ignore line: [C:/Program Files/mingw64/bin/../libexec/gcc/]
@@ -2795,8 +2795,8 @@ events:
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj -o cmTC_a5245.exe -Wl --out-implib libcmTC_a5245.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj -o cmTC_660fd.exe -Wl --out-implib libcmTC_660fd.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\cc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe]
@@ -2814,12 +2814,12 @@ events:
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a5245.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_a5245.']
-        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc2FBKIK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a5245.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_a5245.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_660fd.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_660fd.']
+        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccjdcJuo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_660fd.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_660fd.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
         ignore line: [collect2 version 15.1.0]
-        ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc2FBKIK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a5245.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_a5245.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_a5245.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
+        ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccjdcJuo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_660fd.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_660fd.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_660fd.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
         ignore line: [GNU ld (GNU Binutils) 2.44]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a5245.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_a5245.']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_660fd.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_660fd.']
         ignore line: []
         ignore line: []
         linker tool for 'C': ../src/gcc-15.1.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=win32 --enable-libstdcxx-threads=yes --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-win32-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64/bin/ld.exe
@@ -2868,8 +2868,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-eyd6gl"
-      binary: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-eyd6gl"
+      source: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-6pwrjt"
+      binary: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-6pwrjt"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2879,10 +2879,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-eyd6gl'
+        Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-6pwrjt'
         
-        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_34fb8
-        [1/2] C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -v -o CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_1d782
+        [1/2] C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -v -o CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE
         Target: x86_64-w64-mingw32
@@ -2890,8 +2890,8 @@ events:
         Thread model: win32
         Supported LTO compression algorithms: zlib
         gcc version 15.1.0 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/'
-         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_34fb8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccKSJD8W.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/'
+         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1d782.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccY35Af9.s
         GNU C++17 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) version 15.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.1.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -2914,13 +2914,13 @@ events:
          C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 06ca2478819448a37332f32b12e8b39e
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/'
-         C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccKSJD8W.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/'
+         C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccY35Af9.s
         GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.44
         COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../libexec/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../lib/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE  -v -Wl,-v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_34fb8.exe -Wl,--out-implib,libcmTC_34fb8.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE  -v -Wl,-v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1d782.exe -Wl,--out-implib,libcmTC_1d782.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe
@@ -2931,12 +2931,12 @@ events:
         gcc version 15.1.0 (x86_64-win32-seh-rev0, Built by MinGW-Builds project) 
         COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../libexec/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/Program Files/mingw64/bin/../lib/gcc/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_34fb8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_34fb8.'
-         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc3draye.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_34fb8.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_34fb8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d782.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d782.'
+         C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccogVNpf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d782.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d782.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         collect2 version 15.1.0
-        C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc3draye.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_34fb8.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_34fb8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccogVNpf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d782.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d782.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         GNU ld (GNU Binutils) 2.44
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_34fb8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_34fb8.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d782.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d782.'
         
       exitCode: 0
   -
@@ -2975,10 +2975,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-eyd6gl']
+        ignore line: [Change Dir: 'C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/CMakeFiles/CMakeScratch/TryCompile-6pwrjt']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_34fb8]
-        ignore line: [[1/2] C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -v -o CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_1d782]
+        ignore line: [[1/2] C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -v -o CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2986,8 +2986,8 @@ events:
         ignore line: [Thread model: win32]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.1.0 (x86_64-win32-seh-rev0  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/']
-        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_34fb8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccKSJD8W.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/']
+        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1d782.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\franc\\AppData\\Local\\Temp\\ccY35Af9.s]
         ignore line: [GNU C++17 (x86_64-win32-seh-rev0  Built by MinGW-Builds project) version 15.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.1.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -3010,8 +3010,8 @@ events:
         ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 06ca2478819448a37332f32b12e8b39e]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/']
-        ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccKSJD8W.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/']
+        ignore line: [ C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\franc\\AppData\\Local\\Temp\\ccY35Af9.s]
         ignore line: [GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.44]
         ignore line: [COMPILER_PATH=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/]
         ignore line: [C:/Program Files/mingw64/bin/../libexec/gcc/]
@@ -3022,8 +3022,8 @@ events:
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE  -v -Wl -v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_34fb8.exe -Wl --out-implib libcmTC_34fb8.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE  -v -Wl -v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1d782.exe -Wl --out-implib libcmTC_1d782.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe]
@@ -3041,12 +3041,12 @@ events:
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_34fb8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_34fb8.']
-        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc3draye.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_34fb8.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_34fb8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d782.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d782.']
+        ignore line: [ C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccogVNpf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d782.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d782.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
         ignore line: [collect2 version 15.1.0]
-        ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\cc3draye.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_34fb8.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_34fb8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_34fb8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
+        ignore line: [C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/Program Files/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\franc\\AppData\\Local\\Temp\\ccogVNpf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d782.exe C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/Program Files/mingw64/bin/../lib/gcc -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_1d782.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d782.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Program Files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
         ignore line: [GNU ld (GNU Binutils) 2.44]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_34fb8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_34fb8.']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d782.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d782.']
         ignore line: []
         ignore line: []
         linker tool for 'CXX': ../src/gcc-15.1.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=win32 --enable-libstdcxx-threads=yes --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-win32-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1510-win32-seh-msvcrt-rt_v12-rev0/mingw64/bin/ld.exe
@@ -3120,14 +3120,14 @@ events:
       - "C:/Program Files/mingw64/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/ninja/"
-      - "C:/MinGW/mingw32/bin/"
-      - "C:/msys64/usr/bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/Scripts/"
       - "C:/Users/franc/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/franc/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/franc/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
@@ -3185,12 +3185,9 @@ events:
       - "C:/Program Files/ninja/git.cmd.com"
       - "C:/Program Files/ninja/git.cmd.exe"
       - "C:/Program Files/ninja/git.cmd"
-      - "C:/MinGW/mingw32/bin/git.cmd.com"
-      - "C:/MinGW/mingw32/bin/git.cmd.exe"
-      - "C:/MinGW/mingw32/bin/git.cmd"
-      - "C:/msys64/usr/bin/git.cmd.com"
-      - "C:/msys64/usr/bin/git.cmd.exe"
-      - "C:/msys64/usr/bin/git.cmd"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/git.cmd.com"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/git.cmd.exe"
       - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2020-q4-major/bin/git.cmd"
@@ -3209,6 +3206,9 @@ events:
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/git.cmd.com"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/git.cmd.exe"
       - "C:/intelFPGA/18.1/modelsim_ase/win32aloem/git.cmd"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/git.cmd.com"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/git.cmd.exe"
+      - "C:/Users/franc/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/git.cmd"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/git.cmd.com"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/git.cmd.exe"
       - "C:/Users/franc/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/git.cmd"
@@ -3281,25 +3281,25 @@ events:
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
-        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
-        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files\\MATLAB\\R2025a\\bin"
-        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit"
+        - "C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Arduino-cli"
         - "C:\\Program Files\\mingw64\\bin"
-        - "C:\\Program Files\\PowerShell\\7"
+        - "C:\\Program Files\\PowerShell\\7\\"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\ninja"
-        - "C:\\MinGW\\mingw32\\bin"
-        - "C:\\msys64\\usr\\bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
         - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
-        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
+        - "C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python313\\"
         - "C:\\Users\\franc\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\franc\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\intelFPGA\\18.1\\modelsim_ase\\win32aloem"
-        - "C:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\franc\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\franc\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Users/franc/Desktop/my/mio_progetto/build/_deps"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
