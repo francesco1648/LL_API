@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

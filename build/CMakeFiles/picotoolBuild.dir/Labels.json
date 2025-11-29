@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild-complete.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild-complete.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
 		},
 		{
-			"file" : "C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+			"file" : "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
 		}
 	],
 	"target" : 

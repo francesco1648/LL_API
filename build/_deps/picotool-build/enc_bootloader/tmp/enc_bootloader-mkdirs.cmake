@@ -6,22 +6,22 @@ cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
 # If CMAKE_DISABLE_SOURCE_CHANGES is set to true and the source directory is an
 # existing directory in our source tree, calling file(MAKE_DIRECTORY) on it
 # would cause a fatal error, even though it would be a no-op.
-if(NOT EXISTS "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-src/enc_bootloader")
-  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-src/enc_bootloader")
+if(NOT EXISTS "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-src/enc_bootloader")
+  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-src/enc_bootloader")
 endif()
 file(MAKE_DIRECTORY
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/tmp"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/src"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/tmp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/src"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

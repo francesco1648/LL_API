@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-src/lib
+# Install script for directory: C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-src/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/franc/Desktop/my/mio_progetto/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,6 +45,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build/lib/install_local_manifest.txt"
+  file(WRITE "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build/lib/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

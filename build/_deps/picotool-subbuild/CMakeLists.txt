@@ -19,17 +19,17 @@ project(picotool-populate NONE)
 # Pass through things we've already detected in the main project to avoid
 # paying the cost of redetecting them again in ExternalProject_Add()
 set(GIT_EXECUTABLE [==[C:/Program Files/Git/cmd/git.exe]==])
-set(GIT_VERSION_STRING [==[2.50.1.windows.1]==])
+set(GIT_VERSION_STRING [==[2.51.2.windows.1]==])
 set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
-  [==[C:/Program Files/Git/cmd/git.exe;2.50.1.windows.1]==]
+  [==[C:/Program Files/Git/cmd/git.exe;2.51.2.windows.1]==]
 )
 
 
 include(ExternalProject)
 ExternalProject_Add(picotool-populate
                      "GIT_REPOSITORY" "https://github.com/raspberrypi/picotool.git" "GIT_TAG" "2.2.0"
-                    SOURCE_DIR          "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-src"
-                    BINARY_DIR          "C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-build"
+                    SOURCE_DIR          "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-src"
+                    BINARY_DIR          "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

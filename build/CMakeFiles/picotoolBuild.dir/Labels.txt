@@ -1,14 +1,14 @@
 # Target labels
  picotoolBuild
 # Source files and their labels
-C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild
-C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/CMakeFiles/picotoolBuild-complete.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
-C:/Users/franc/Desktop/my/mio_progetto/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/CMakeFiles/picotoolBuild-complete.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

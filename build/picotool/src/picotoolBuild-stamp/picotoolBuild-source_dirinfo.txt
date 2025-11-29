@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=C:/Users/franc/Desktop/my/mio_progetto/build/_deps/picotool-src
+source_dir=C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/_deps/picotool-src
 work_dir=
 

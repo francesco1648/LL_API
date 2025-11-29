@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/Program Files/pico-sdk/tools/pioasm")
   file(MAKE_DIRECTORY "C:/Program Files/pico-sdk/tools/pioasm")
 endif()
 file(MAKE_DIRECTORY
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pioasm"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src"
-  "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src"
+  "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/my/mio_progetto/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp${cfgdir}") # cfgdir has leading slash
 endif()

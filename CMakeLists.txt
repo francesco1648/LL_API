@@ -41,6 +41,6 @@ target_link_libraries(${PROJECT_NAME}
 
 
 if (PICO_CYW43_SUPPORTED)
-    target_link_libraries(mio_progetto pico_cyw43_arch_none)
+    target_link_libraries(LL_API pico_cyw43_arch_none)
 endif()
 

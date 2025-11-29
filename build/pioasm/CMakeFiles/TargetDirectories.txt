@@ -1,7 +1,7 @@
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/rebuild_cache.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/list_install_components.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/install.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/install/local.dir
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm/CMakeFiles/install/strip.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/rebuild_cache.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/list_install_components.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/install.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/install/local.dir
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm/CMakeFiles/install/strip.dir

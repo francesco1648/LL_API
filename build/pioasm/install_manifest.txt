@@ -1,5 +1,5 @@
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install/pioasm/pioasm.exe
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install/pioasm/pioasmTargets.cmake
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install/pioasm/pioasmTargets-release.cmake
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install/pioasm/pioasmConfig.cmake
-C:/Users/franc/Desktop/my/mio_progetto/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install/pioasm/pioasm.exe
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install/pioasm/pioasmTargets.cmake
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install/pioasm/pioasmConfig.cmake
+C:/Users/franc/Desktop/isaac/old/my_dev/LL_API/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

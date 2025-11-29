@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Program Files\pico-sdk\tools\pioasm" -BC:\Users\franc\Desktop\my\mio_progetto\build\pioasm
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Program Files\pico-sdk\tools\pioasm" -BC:\Users\franc\Desktop\isaac\old\my_dev\LL_API\build\pioasm
   description = Re-running CMake...
   generator = 1
 
